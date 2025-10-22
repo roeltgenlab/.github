@@ -1,7 +1,7 @@
 # Röltgen Lab – Virus Immunology (VIM)
 _From infection to protection: Investigating immune responses to viruses and vaccines_  
 
-The Röltgen Lab, based at the University of Basel, investigates how the immune system responds to viral infections and how those responses can be leveraged to develop better diagnostics and vaccines.
+The Röltgen Lab, based at the Swiss TPH in Basel, investigates how the immune system responds to viral infections and how those responses can be leveraged to develop better diagnostics and vaccines.
 
 ---
 
