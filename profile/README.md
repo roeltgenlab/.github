@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="web-app-manifest-512x512.png" alt="Röltgen Lab Logo" width="200"/>
+</p>
+
 # Röltgen Lab – Virus Immunology (VIM)
 _From infection to protection: Investigating immune responses to viruses and vaccines_  
 
