@@ -13,10 +13,13 @@ The Röltgen Lab, based at the Swiss TPH in Basel, investigates how the immune s
 
 ### 👥 Team  
 - Prof. Dr. Katharina Röltgen – Principal Investigator
-- Martin Monteil-Ruiz – PhD student  
-- Salomé Lochmann – Pre-PhD student
-- Kai Wanner – MSc student 
-- Nema Ahmed Alfaki – MSc student
+- Martin Montiel-Ruiz – PhD Candidate  
+- Salomé Lochmann – PhD Student
+- Kai Wanner – MSc
+- Nema Ahmed Alfaki – MSc Student
+- Nils Langer - MSc Student
+- Mona Ziltener - MSc Student
+- Nele von Planta - BSc Student
 
 ---
 
