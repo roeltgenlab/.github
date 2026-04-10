@@ -12,10 +12,11 @@ The Röltgen Lab, based at the Swiss TPH in Basel, investigates how the immune s
 ---
 
 ### 👥 Team  
-- Prof. Dr. Katharina Röltgen – Principal Investigator
-- Martin Montiel-Ruiz – PhD Candidate  
+- Katharina Röltgen – Professor, Principal Investigator
+- Eilidh Carringtion - Senior Scientific Collaborator
+- Julia Hauser - Scientific Collaborator II
+- Martin Montiel-Ruiz – PhD Candidate
 - Salomé Lochmann – PhD Student
-- Kai Wanner – MSc
 - Nema Ahmed Alfaki – MSc Student
 - Nils Langer - MSc Student
 - Mona Ziltener - MSc Student
